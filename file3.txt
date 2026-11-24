@@ -1,1 +1,3 @@
 This is file3.txt
+Here we are practicing the git pull command.
+What does the git pull command do? It downloads information from the remote tracking repository and updates and integrates the information into the local tracking repository
